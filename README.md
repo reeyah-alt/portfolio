@@ -1,3 +1,3 @@
 # portfolio
 
-This is a portfolio website i made, using html and css.
+This is a portfolio website I made, using html and css.
